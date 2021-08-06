@@ -1,0 +1,1 @@
+This is Jannica's first git project!
